@@ -138,6 +138,6 @@ systemctl disable cloud-init-local
 
 # FIXME: Installer bug
 # Delete dummy user we use to keep installer from failing.
-%post
-userdel hsimage
-%end
+#%post
+#userdel hsimage
+#%end
