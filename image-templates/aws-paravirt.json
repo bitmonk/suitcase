@@ -47,7 +47,8 @@
         "scripts/aws/aws-modules.sh",
         "scripts/aws/cloud-init-enable.sh",
         "scripts/common/nic.sh",
-        "scripts/common/cleanup.sh"
+        "scripts/common/cleanup.sh",
+        "scripts/common/clear_root_authkeys.sh"
       ]
     },
     {

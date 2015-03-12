@@ -9,6 +9,3 @@ yum clean all
 if [ -f /tmp/VBoxGuestAdditions.iso ]; then
     rm /tmp/VBoxGuestAdditions.iso
 fi
-
-# Delete builder key.
-echo > /root/.ssh/authorized_keys

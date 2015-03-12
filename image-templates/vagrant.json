@@ -44,7 +44,8 @@
         "scripts/vagrant/vbox-guest-additions.sh",
         "scripts/vagrant/vagrant-user.sh",
         "scripts/common/nic.sh",
-        "scripts/common/cleanup.sh"
+        "scripts/common/cleanup.sh",
+        "scripts/common/clear_root_authkeys.sh"
       ]
     },
     {

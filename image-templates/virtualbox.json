@@ -69,7 +69,8 @@
         "scripts/virtualbox/packages.sh",
         "scripts/virtualbox/serial.sh",
         "scripts/virtualbox/sshd.sh",
-        "scripts/common/nic.sh"
+        "scripts/common/nic.sh",
+        "scripts/common/cleanup.sh"
       ]
     },
     {
