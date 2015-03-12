@@ -2,7 +2,7 @@ Suitcase
 =============
 _Suitcase_ is for building OS images using [Packer](http://www.packer.io/)
 
-_NOTE: You must alter site.rb to be applicable for your AWS environment_
+_NOTE: You must copy site_example.rb to site.rb and customize it to be applicable for your AWS environment_
 
 Building
 ---------
